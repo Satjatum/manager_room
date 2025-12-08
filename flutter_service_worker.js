@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f34b75cff684bdf9af4469d3e3458c41",
-"assets/AssetManifest.bin.json": "cc94bfba17b74871bc0b7e151da73aea",
-"assets/AssetManifest.json": "a70622361cf1f06aeed35be1e0c7617f",
+const RESOURCES = {"assets/AssetManifest.bin": "30ae300ed5b1714023619812047ba475",
+"assets/AssetManifest.bin.json": "03d096fb01dbd38073497f468b0b4684",
+"assets/AssetManifest.json": "da39d18661063746f1d49825bfcb1b84",
 "assets/assets/fonts/THSarabunNew/THSarabunNew%2520Bold.ttf": "4a12003b4ffef670c25aa8065100befe",
 "assets/assets/fonts/THSarabunNew/THSarabunNew.ttf": "4c9a6e3d203c26982281fdda16ab5712",
 "assets/assets/images/Kasikorn.png": "c612f69d1905139307677a805db2edd2",
@@ -27,7 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "f34b75cff684bdf9af4469d3e3458c41
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "d4e5956d809a2bc0a2bfcb38f26dc8ea",
+"flutter_bootstrap.js": "2c00ee828bf727620911215603b232fc",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
